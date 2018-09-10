@@ -1,0 +1,7 @@
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\bin\Debug\ArrayDifferents.exe.config
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\bin\Debug\ArrayDifferents.exe
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\bin\Debug\ArrayDifferents.pdb
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\obj\Debug\ArrayDifferents.csproj.CoreCompileInputs.cache
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\obj\Debug\ArrayDifferents.exe
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\obj\Debug\ArrayDifferents.pdb
+c:\users\evgenij\source\repos\ProgrammingBasics\ArrayDifferents\obj\Debug\ArrayDifferents.csprojResolveAssemblyReference.cache

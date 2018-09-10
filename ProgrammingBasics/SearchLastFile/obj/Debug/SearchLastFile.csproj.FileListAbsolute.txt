@@ -1,0 +1,7 @@
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\bin\Debug\SearchLastFile.exe.config
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\bin\Debug\SearchLastFile.exe
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\bin\Debug\SearchLastFile.pdb
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\obj\Debug\SearchLastFile.csprojResolveAssemblyReference.cache
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\obj\Debug\SearchLastFile.csproj.CoreCompileInputs.cache
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\obj\Debug\SearchLastFile.exe
+c:\users\evgenij\source\repos\ProgrammingBasics\SearchLastFile\obj\Debug\SearchLastFile.pdb
